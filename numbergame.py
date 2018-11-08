@@ -1,3 +1,4 @@
+#this is a number game where you guess the number. You get seven guesses to figure a number between 1 and 50.
 import random
 
 numberofGuesses = 0
