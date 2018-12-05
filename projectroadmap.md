@@ -5,3 +5,4 @@
 4. Add comments to the code. (Done)
 5. Download Flask onto computer. (Done)
 6. Create HTML for Homepage. (Done)
+7. Remove About page because it is not needed. (Done)
