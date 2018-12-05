@@ -6,3 +6,7 @@
 5. Download Flask onto computer. (Done)
 6. Create HTML for Homepage. (Done)
 7. Remove About page because it is not needed. (Done)
+8. Edit CSS to change the colors and layout of webpage. (Done)
+9.Figure out how to get everything to work together. (Work in Progess)
+10. Create marketing slide. (Done)
+11. Create presentation using a webpage. (Done)
